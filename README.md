@@ -12,4 +12,4 @@ Key Features:
 
 Compatibility: Spigot, Paper, Bukkit, and other compatible servers.
 
-##A lightweight and efficient way to keep players engaged!
+## A lightweight and efficient way to keep players engaged!
