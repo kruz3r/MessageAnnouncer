@@ -1,0 +1,13 @@
+name: MessageAnnouncer
+version: '${version}'
+main: eu.kruz3r.messageannouncer.MessageAnnouncer
+api-version: '1.16'
+author: github.com/kruz3r
+permissions:
+  messageannouncer.admin:
+    description: ability to reload the plugin
+    default: op
+commands:
+  msa:
+    description: MessageAnnouncer command
+    aliases: [msgannouncer, messageannouncer, msadmin]

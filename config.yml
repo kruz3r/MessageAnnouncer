@@ -1,0 +1,50 @@
+# MessageAnnouncer v1.0-SNAPSHOT Main configuration
+announcer_enabled: true
+announcer_random: true
+announce_interval: 120
+sound:
+  enabled: true
+  sound_name: BLOCK_NOTE_BLOCK_PLING
+  volume: 10
+  pitch: 1
+interval_announcement_list:
+- vk
+- granter
+- shop
+- uslugi
+- santa
+announcements:
+  vk:
+  - '&#FFD700'
+  - '&#FFD700╔'
+  - '&#FFD700║ &fПрисоединяйся к нам в &#06e1ff&lВ&#05d7fc&lК&#05cef9&lо&#04c4f6&lн&#03baf3&lт&#02b0ef&lа&#02a7ec&lк&#019de9&lт&#0093e6&lе'
+  - '&#FFD700║ &fДля участия в турнирах и конкурсах'
+  - '&#FFD700║ &fСсылка на ВК: &#06e1ffvk.com/holycubes'
+  - '&#FFD700╚ '
+  - '&#FFD700'
+  granter:
+  - '&#FFD700'
+  - '&#FFD700╔'
+  - '&#FFD700║ &fВыдавать привилегии может &#ff4444&lИ&#ff4242&lм&#ff3f3f&lп&#ff3d3d&lе&#ff3a3a&lр&#ff3838&lа&#ff3535&lт&#ff3333&lо&#ff3030&lр&f при помощи'
+  - '&#FFD700║ &fКоманды &6/grant&f. ВВоди команду &6/donate'
+  - '&#FFD700╚ '
+  - '&#FFD700'
+  shop:
+  - '&#FFD700'
+  - '&#FFD700╔'
+  - '&#FFD700║ &fПиши &#ffd600&l/&#ffd809&ls&#ffdb12&lh&#ffdd1a&lo&#ffdf23&lp&f чтобы открыть магазин!'
+  - '&#FFD700╚ '
+  - '&#FFD700'
+  uslugi:
+  - '&#FFD700'
+  - '&#FFD700╔'
+  - '&#FFD700║ &fCмотри наши &#ffd600&lД&#ffd704&lо&#ffd807&lн&#ffd90b&lа&#ffda0e&lт &#ffdb12&lУ&#ffdb15&lс&#ffdc19&lл&#ffdd1c&lу&#ffde20&lг&#ffdf23&lи &fв &6/donate'
+  - '&#FFD700╚ '
+  - '&#FFD700'
+  santa:
+  - '&#FFD700'
+  - '&#FFD700╔'
+  - '&#FFD700║ &fПриобретай привилегию &#04b0ff&l&nС&#06a3f9&l&nа&#0895f3&l&nн&#0988ec&l&nт&#0b7ae6&l&nа&f &fвсего за '
+  - '&#FFD700║ &fС доступом к &#ffd600&lБ&#ffd704&lО&#ffd807&lЛ&#ffd90b&lЬ&#ffda0e&lШ&#ffdb12&lИ&#ffdb15&lН&#ffdc19&lС&#ffdd1c&lТ&#ffde20&lВ&#ffdf23&lУ &fкоманд сервера!'
+  - '&#FFD700╚ '
+  - '&#FFD700'
